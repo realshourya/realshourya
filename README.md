@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**realshourya/realshourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <img src='https://cdn.discordapp.com/emojis/1184599007629152336.gif' width='25' />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+
+![Github stats](https://github-stats-extended.vercel.app/api?username=realshourya&title_color=8229ff&icon_color=a361ff&text_color=8229ff&bg_color=000000&&show_icons=true&border_color=da8ff7&count_private=true&include_all_commits=true)
+
+[![Language Usage](https://github-stats-extended.vercel.app/api/top-langs?username=realshourya&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=realshourya&layout=compact&langs_count=4&theme=midnight-purple)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=realshourya&border=DA8FF7&background=45%2C000000%2C000000&dates=D052FF&stroke=D466F7&currStreakNum=8229FF&excludeDaysLabel=8229FF&fire=EC08FF&ring=A361FF&sideNums=DA8FF7&currStreakLabel=DA8FF7&sideLabels=DA8FF7)
+</br>
+<p>discord :- fakeshourya</p>
+<p>📧 <a href="mailto:shouryadev.tech@gmail.com">shouryadev.tech@gmail.com</a></p>
+<p> <img src='https://cdn.discordapp.com/emojis/1282748597665796190.gif' width='25' /> Shourya Thakur — writing code for the most random features</p>
+</div>
